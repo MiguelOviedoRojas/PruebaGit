@@ -3,5 +3,7 @@ Comandos de git
 git clone (poner la direccion q copiamos de github)
 git status -> sirve para ver q archivos son nuevos y luego poder subirlos a github
 git add . -> sirve para agregar archivos nuevos 
+git commit -m "Mensaje de los cambios q realice"
+git push -> para subir el proyecto con los cambios a github
 
 
