@@ -1,0 +1,7 @@
+Comandos de git
+
+git clone (poner la direccion q copiamos de github)
+git status -> sirve para ver q archivos son nuevos y luego poder subirlos a github
+git add . -> sirve para agregar archivos nuevos 
+
+
